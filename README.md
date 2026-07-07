@@ -34,28 +34,7 @@ I'm a B.Tech Computer Science student at Bennett University who enjoys building 
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/apurvakaushik790&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/apurvakaushik790&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=https://github.com/apurvakaushik790&theme=tokyonight&hide_border=true" />
-</p>
----
-
-## 🔥 GitHub Streak
-
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=https://github.com/apurvakaushik790&theme=tokyonight&hide_border=true" />
-</p>
----
 
 ## 📫 Connect With Me
 
